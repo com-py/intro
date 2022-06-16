@@ -1,5 +1,5 @@
 # Ch.03 Notebook Programs. 
-## `Python` subfolder contains standard `.py` programs. To download a program here, click on it, choose `raw`, then save (right click) it as  `.ipynb` file.
+## `Python` subfolder contains standard `.py` programs. You can download everything in a zip file by going up to the [`root folder`](https://github.com/com-py/intro) and select `code` (clone). To download a single program here, click on it, choose `raw`, then save (right click) it as  `.ipynb` file.
 ## Choose a link below to run the program online in Binder.  
 
 1. Numba optimization (doesn't work yet b/c repo is private) [`p8-numba.ipynb`](https://mybinder.org/v2/gh/com-py/intro/main?urlpath=tree/ch03/p8-numba.ipynb)
