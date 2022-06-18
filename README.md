@@ -4,3 +4,13 @@
 - ### To download a single program, navigate to the right subfolder, click on it, choose `raw`, then save (right click) it as  `.ipynb` or `.py` file.
 - ### You can also choose a notebook link to run the program online in Binder. 
 - ### Select `GlowScript` programs are at [https://www.glowscript.org/#/user/jaywang/folder/intro/](https://www.glowscript.org/#/user/jaywang/folder/intro/)
+
+        
+          <iframe
+ src="https://trinket.io/embed/glowscript/e7acedfac1?outputOnly=true" 
+width="100%" height="600" frameborder="0" marginwidth="0" 
+marginheight="0" allowfullscreen></iframe>
+
+        
+
+      
