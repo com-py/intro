@@ -7,5 +7,10 @@
 - ### You can download everything in a zip file by selecting `code` above (clone). 
 - ### To download a single program, navigate to the right subfolder, click on it, choose `raw`, then save (right click) it as  `.ipynb` or `.py` file.
 - ### Select `GlowScript` programs are at [https://www.glowscript.org/#/user/jaywang/folder/intro/](https://www.glowscript.org/#/user/jaywang/folder/intro/)
-- ### A Trinket demo: https://trinket.io/glowscript/e7acedfac1
+- ### Sample Trinkets:
+   - Moving ball: https://trinket.io/glowscript/e7acedfac1
+   - Classical oscillator: https://trinket.io/glowscript/88a61ebba0
+   - Atwood machine: https://trinket.io/glowscript/b5ce9cbfda
+   - Zero-field point between two charges: https://trinket.io/glowscript/73b8d5e4fb
+   - Quantum oscillator: https://trinket.io/glowscript/ae61120091
    
