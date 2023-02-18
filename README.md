@@ -14,3 +14,4 @@
    - Zero-field point between two charges: https://trinket.io/glowscript/73b8d5e4fb
    - Quantum oscillator: https://trinket.io/glowscript/ae61120091
    
+- ### More info: https://jwang.sites.umassd.edu/
