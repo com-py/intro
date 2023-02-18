@@ -1,3 +1,5 @@
+<img src="https://jwang.sites.umassd.edu/files/2023/02/intro.jpg" width="300px" align="left" border="0" alt="intro cover">
+
 # Introduction to computation in physical sciences online resources
 ## Programs are arranged by chapter, then by notebook format (`.ipynb`) and standard format (`.py`) in `Python` subfolders. A `-vp` in a program name indicates a `vpython` animation program.
 - ### You can download everything in a zip file by selecting `code` above (clone). 
