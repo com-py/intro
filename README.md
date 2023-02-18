@@ -1,4 +1,4 @@
-<img src="https://jwang.sites.umassd.edu/files/2023/02/intro.jpg" width="300px" align="left" border="0" alt="intro cover">
+<img src="https://jwang.sites.umassd.edu/files/2023/02/intro.jpg" width="220px" align="left" border="0" alt="intro cover">
 
 # Introduction to computation in physical sciences online resources, https://link.springer.com/book/10.1007/978-3-031-17646-3
 
