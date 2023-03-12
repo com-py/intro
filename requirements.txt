@@ -1,6 +1,6 @@
 ipympl
-matplotlib==2.2.3
 numba
 numpy
 scipy
 sympy
+matplotlib==2.2.3
