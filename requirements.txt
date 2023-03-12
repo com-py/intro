@@ -4,3 +4,4 @@ numba==0.39.0
 numpy==1.15.4
 scipy==1.1.0
 sympy==1.1.1
+vpython==7.4.7
