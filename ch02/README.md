@@ -3,3 +3,4 @@
 ## Choose a link below to run the program online in Binder. (*Note: server image building/loading may be slow the first time*)
 
 1. Ch.02 programs [`ch02.ipynb`](https://mybinder.org/v2/gh/com-py/intro/main?urlpath=tree/ch02/ch02.ipynb)
+ 
