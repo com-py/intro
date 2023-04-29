@@ -8,3 +8,4 @@
 1. Entropy [`p4-entropy.ipynb`](https://mybinder.org/v2/gh/com-py/intro/main?urlpath=tree/ch08/p4-entropy.ipynb)
 1. Ising model [`p5-ising.ipynb`](https://mybinder.org/v2/gh/com-py/intro/main?urlpath=tree/ch08/p5-ising.ipynb)
 1. Global warming and energy balance [`p6-warming.ipynb`](https://mybinder.org/v2/gh/com-py/intro/main?urlpath=tree/ch08/p6-warming.ipynb)
+ 
