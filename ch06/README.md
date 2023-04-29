@@ -6,3 +6,4 @@
 1. Three-body coupled oscillator [`p2-threebody-osc.ipynb`](https://mybinder.org/v2/gh/com-py/intro/main?urlpath=tree/ch06/p2-threebody-osc.ipynb); with VPython animation [`p2-threebody-osc-vp.ipynb`](https://mybinder.org/v2/gh/com-py/intro/main?urlpath=tree/ch06/p2-threebody-osc-vp.ipynb)
 1. Wave motion [`p3-waves.ipynb`](https://mybinder.org/v2/gh/com-py/intro/main?urlpath=tree/ch06/p3-waves.ipynb)
 1. Fundamental modes [`p4-funmode.ipynb`](https://mybinder.org/v2/gh/com-py/intro/main?urlpath=tree/ch06/p4-funmode.ipynb)
+ 
