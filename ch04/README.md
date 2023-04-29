@@ -4,3 +4,4 @@
 
 1. Curve fit  [`p1-curvefit.ipynb`](https://mybinder.org/v2/gh/com-py/intro/main?urlpath=tree/ch04/p1-curvefit.ipynb)
 1. Locating minima and maxima [`p2-minmax.ipynb`](https://mybinder.org/v2/gh/com-py/intro/main?urlpath=tree/ch04/p2-minmax.ipynb)
+ 
