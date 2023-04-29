@@ -10,3 +10,4 @@
 1. Numpy library [`p6-numpy.ipynb`](https://mybinder.org/v2/gh/com-py/intro/main?urlpath=tree/ch03/p6-numpy.ipynb)
 1. Scipy library [`p7-scipy.ipynb`](https://mybinder.org/v2/gh/com-py/intro/main?urlpath=tree/ch03/p7-scipy.ipynb)
 1. Numba optimization [`p8-numba.ipynb`](https://mybinder.org/v2/gh/com-py/intro/main?urlpath=tree/ch03/p8-numba.ipynb)
+ 
