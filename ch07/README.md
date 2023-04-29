@@ -8,3 +8,4 @@
 1. Visualizing quantum states [`p4-visualsho.ipynb`](https://mybinder.org/v2/gh/com-py/intro/main?urlpath=tree/ch07/p4-visualsho.ipynb)
 1. Quantum computing simulator [`p5-qc.ipynb`](https://mybinder.org/v2/gh/com-py/intro/main?urlpath=tree/ch07/p5-qc.ipynb)
 1. Quantum Grover search [`p6-grover.ipynb`](https://mybinder.org/v2/gh/com-py/intro/main?urlpath=tree/ch07/p6-grover.ipynb)
+ 
