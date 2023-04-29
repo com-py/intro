@@ -9,3 +9,4 @@
 1. Simple harmonic oscillator [`p5-sho.ipynb`](https://mybinder.org/v2/gh/com-py/intro/main?urlpath=tree/ch05/p5-sho.ipynb); with VPython animation [`p5-sho-vp.ipynb`](https://mybinder.org/v2/gh/com-py/intro/main?urlpath=tree/ch05/p5-sho-vp.ipynb)
 1. Planetary motion [`p6-planet.ipynb`](https://mybinder.org/v2/gh/com-py/intro/main?urlpath=tree/ch05/p6-planet.ipynb); with VPython animation [`p6-planet-vp.ipynb`](https://mybinder.org/v2/gh/com-py/intro/main?urlpath=tree/ch05/p6-planet-vp.ipynb)
 1. Motion in E&M fields [`p7-emotion.ipynb`](https://mybinder.org/v2/gh/com-py/intro/main?urlpath=tree/ch05/p7-emotion.ipynb); with VPython animation [`p7-emotion-vp.ipynb`](https://mybinder.org/v2/gh/com-py/intro/main?urlpath=tree/ch05/p7-emotion-vp.ipynb)
+ 
